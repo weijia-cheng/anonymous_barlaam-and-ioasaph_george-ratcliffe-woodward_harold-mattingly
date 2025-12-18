@@ -4,8 +4,8 @@
 [epub|type~="bridgehead"]{
 	display: inline-block;
 	font-variant: small-caps;
-	text-transform: lowercase;
 	max-width: 60%;
 	text-align: justify;
 	text-indent: 0;
+	text-transform: lowercase;
 }
