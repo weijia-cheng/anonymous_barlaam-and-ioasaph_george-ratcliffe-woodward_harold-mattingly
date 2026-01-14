@@ -9,3 +9,7 @@
 	text-indent: 0;
 	text-transform: lowercase;
 }
+
+abbr[epub|type~="se:era"]{
+	font-variant: all-small-caps;
+}
