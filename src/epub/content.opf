@@ -60,15 +60,15 @@
 		<meta property="file-as" refines="#translator-1">Woodward, George Ratcliffe</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-1">https://en.wikipedia.org/wiki/George_Ratcliffe_Woodward</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-1">http://id.loc.gov/authorities/names/n80167031</meta>
-		<meta property="role" refines="#translator-1" scheme="marc:relators">trl</meta>
 		<meta property="role" refines="#translator-1" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#translator-1" scheme="marc:relators">trl</meta>
 		<meta property="role" refines="#translator-1" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="translator-2">Harold Mattingly</dc:contributor>
 		<meta property="file-as" refines="#translator-2">Mattingly, Harold</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-2">https://en.wikipedia.org/wiki/Harold_Mattingly</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-2">http://id.loc.gov/authorities/names/n79096959</meta>
-		<meta property="role" refines="#translator-2" scheme="marc:relators">trl</meta>
 		<meta property="role" refines="#translator-2" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#translator-2" scheme="marc:relators">trl</meta>
 		<meta property="role" refines="#translator-2" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="artist">Anonymous</dc:contributor>
 		<meta property="file-as" refines="#artist">Anonymous</meta>
